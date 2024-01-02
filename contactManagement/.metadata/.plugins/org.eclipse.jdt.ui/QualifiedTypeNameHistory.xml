@@ -23,4 +23,6 @@
     <fullyQualifiedTypeName name="com.app.dao.UserRepository"/>
     <fullyQualifiedTypeName name="com.app.entities.User"/>
     <fullyQualifiedTypeName name="com.app.entities.Contact"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
 </qualifiedTypeNameHistroy>
